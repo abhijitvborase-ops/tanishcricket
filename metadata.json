@@ -1,0 +1,6 @@
+{
+  "name": "Tanish Scorer",
+  "description": "Tanish Orchid Phase 1 Cricket Scoring App - Official Cricket Scoring App developed by Abhijit Borase with automatic Room + Firestore real-time cloudsync integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

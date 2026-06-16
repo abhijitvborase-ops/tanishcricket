@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Three Wickets (Stumps) and Bails in the background, offset to the left -->
+    <!-- Stump 1 (Left) -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M38,36h3v34h-3z" />
+    <!-- Stump 2 (Center) -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M45,36h3v34h-3z" />
+    <!-- Stump 3 (Right) -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M52,36h3v34h-3z" />
+    <!-- Bails (across the top of stumps) -->
+    <path
+        android:fillColor="#FFF1F5F9"
+        android:pathData="M36,33h20v2h-20z" />
+
+    <!-- Cricket Bat diagonally overlayed from top-right to bottom-left -->
+    <!-- Bat Handle (wrapped grip) -->
+    <path
+        android:fillColor="#FFFBBF24"
+        android:pathData="M64,30 L69,35 L58,46 L53,41 Z" />
+    
+    <!-- Bat Body (willow wood) -->
+    <path
+        android:fillColor="#FFF8FAFC"
+        android:pathData="M57,47 L68,58 C68,58 55,75 42,76 C38,76 36,73 36,69 C36,60 57,47 57,47 Z" />
+    
+    <!-- Red Cricket Ball with white seam -->
+    <path
+        android:fillColor="#FFEF4444"
+        android:pathData="M66,62 A7,7 0 1,1 66,76 A7,7 0 1,1 66,62 Z" />
+    <!-- Ball Seam -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M66,69 C69.5,67 71.5,71 73,69" />
+
+    <!-- Sleek Ground shadow for the composition -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M30,73h46v3h-46z" />
+</vector>

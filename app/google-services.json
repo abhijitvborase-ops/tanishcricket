@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140131729045",
+    "project_id": "tanishcricket-373db",
+    "storage_bucket": "tanishcricket-373db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140131729045:android:b0b284857c95dbbecfe59c",
+        "android_client_info": {
+          "package_name": "com.aistudio.societycricketscorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl9xCIhgJ1aJQnWOZJ-OM9ruIPewhDM4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
